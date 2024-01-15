@@ -15,4 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-[Play here](build/web)
+'flutter build web --base-href /flutterGame/build/web/'
+
+[Play here](https://audriu.github.io/flutterGame/build/web/)
